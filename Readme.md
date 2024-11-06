@@ -1,0 +1,1 @@
+Understanding maths and code behind Neural network and Backpropagation by building a simple Neural network. Note: This whole repository is based on the tutorial series and example codes provided by  the Youtube channel "Andrej Karpathy" provided by Andrej Karpathy itself.
